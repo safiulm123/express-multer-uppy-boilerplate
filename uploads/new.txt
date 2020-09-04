@@ -1,0 +1,13 @@
+ <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+    integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	
+	
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri().'/lib/font-awesome/css/font-awesome.min.css'; ?>" type="text/css" media="screen">
+	
+	
+	
+	HeadersParams
+https://symcloud.net/wp-content/themes/New%20Theme/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+
+
+ <link rel="stylesheet" href="<?php echo get_template_directory_uri().'/lib/ionicons/css/ionicons.min.css'; ?>" type="text/css" media="screen">
